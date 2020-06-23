@@ -1,5 +1,12 @@
 # Contributor Covenant Code of Conduct
 
+```
+THIS FILE WAS DERIVED FROM THE NODEJS PROJECT.
+
+INITIALLY WE WILL USE DEFAULT LF CODE OF CONDUCT.
+https://lfprojects.org/policies/code-of-conduct/
+```
+
 ## Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
